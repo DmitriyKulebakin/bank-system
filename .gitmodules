@@ -1,0 +1,9 @@
+[submodule "account_service"]
+	path = account_service
+	url = https://github.com/DmitriyKulebakin/account_service
+[submodule "payment_service"]
+	path = payment_service
+	url = https://github.com/DmitriyKulebakin/payment_service
+[submodule "util_lib"]
+	path = util_lib
+	url = https://github.com/DmitriyKulebakin/util_lib
